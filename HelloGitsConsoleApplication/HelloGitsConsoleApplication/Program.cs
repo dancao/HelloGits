@@ -12,6 +12,9 @@ namespace HelloGitsConsoleApplication
         {
             Console.WriteLine("Hello Gits...");
             Console.ReadKey();
+
+            Console.WriteLine("Hello Gits One More Time...");
+            Console.ReadKey();
         }
     }
 }
