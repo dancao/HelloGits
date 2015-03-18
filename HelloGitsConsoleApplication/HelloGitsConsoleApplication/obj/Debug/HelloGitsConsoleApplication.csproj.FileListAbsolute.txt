@@ -1,0 +1,6 @@
+D:\Projects\GitHub\HelloGits\HelloGitsConsoleApplication\HelloGitsConsoleApplication\bin\Debug\HelloGitsConsoleApplication.exe.config
+D:\Projects\GitHub\HelloGits\HelloGitsConsoleApplication\HelloGitsConsoleApplication\bin\Debug\HelloGitsConsoleApplication.exe
+D:\Projects\GitHub\HelloGits\HelloGitsConsoleApplication\HelloGitsConsoleApplication\bin\Debug\HelloGitsConsoleApplication.pdb
+D:\Projects\GitHub\HelloGits\HelloGitsConsoleApplication\HelloGitsConsoleApplication\obj\Debug\HelloGitsConsoleApplication.csprojResolveAssemblyReference.cache
+D:\Projects\GitHub\HelloGits\HelloGitsConsoleApplication\HelloGitsConsoleApplication\obj\Debug\HelloGitsConsoleApplication.exe
+D:\Projects\GitHub\HelloGits\HelloGitsConsoleApplication\HelloGitsConsoleApplication\obj\Debug\HelloGitsConsoleApplication.pdb
